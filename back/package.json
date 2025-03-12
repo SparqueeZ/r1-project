@@ -1,0 +1,14 @@
+{
+  "name": "r1-backend",
+  "version": "0.0.1-alpha",
+  "description": "This project is for ParlonsCyber.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SparqueeZ.",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
