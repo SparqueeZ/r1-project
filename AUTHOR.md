@@ -1,3 +1,3 @@
-# Romain
+# Romain PETIT
 
-# Baptiste
+# Baptiste DIJOUX
